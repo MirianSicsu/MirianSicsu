@@ -1,4 +1,4 @@
-# Olá, eu sou a Mirian Sicsú! 👋
+# Olá, eu sou á Mirian Sicsú! 👋
 
 📍 Manaus, AM | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
