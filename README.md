@@ -1,4 +1,5 @@
 # Olá, eu sou a Mirian Sicsú! 👋
+
 📍 Manaus, AM | 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
 Atualmente cursando o 2º semestre de ADS (com início do 3º semestre em Janeiro de 2027). Busco uma oportunidade de estágio em tecnologia para aplicar raciocínio lógico, organização, metodologias ágeis e o uso de Inteligência Artificial na otimização de processos, testes de software e suporte ao usuário.
