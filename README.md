@@ -42,4 +42,4 @@ Atualmente cursando o 2º semestre de ADS (com início do 3º semestre em Janeir
 ---
 
 ## 📫 Contato
-- **E-mail:** icsu.bts@gmail.com
+- **E-mail:** PequenaSicsu.bts@gmail.com
